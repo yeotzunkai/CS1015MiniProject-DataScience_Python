@@ -1,4 +1,5 @@
 # CS1015MiniProject-DataScience_Python
 ### Mini Project folder
-### Dataset
-#### The dataset that we would be using is from https://www.kaggle.com/CooperUnion/cardataset
+### Dataset Folder
+#### Contains the dataset used for the project. 
+##### https://www.kaggle.com/CooperUnion/cardataset
