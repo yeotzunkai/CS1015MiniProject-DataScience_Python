@@ -1,5 +1,5 @@
 # Content
-## The original dataset is based on Cars with 16 features represented by columns to predict car prices.
+## The original dataset [data.csv](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Dataset/data.csv) is based on Cars with 16 features represented by columns to predict car prices.
 ## There is a total of 11914 different cars.
 #### Here are some of the acronyms for the features.
 | Feature     | Description      | Type of data |
@@ -22,5 +22,5 @@
 | MSRP              |  Manufacturer Suggested Retail Price | numerical
 #### Extracted from https://www.kaggle.com/CooperUnion/cardataset
 
-## After Data Preparation and cleaning, We have obtained a new set of dataset with 6 features represented by coloumns to predict car prices.
+## After Data Preparation and cleaning, We have obtained a new set of dataset [model.dat.csv](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Dataset/model_dat.csv) with 6 features represented by coloumns to predict car prices.
 ## There is a total of 8619 different cars.
