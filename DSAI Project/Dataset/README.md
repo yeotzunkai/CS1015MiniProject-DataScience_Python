@@ -24,3 +24,12 @@
 
 ## After Data Preparation and cleaning, We have obtained a new set of dataset [model.dat.csv](https://github.com/yeotzunkai/CS1015MiniProject-DataScience_Python/blob/main/DSAI%20Project/Dataset/model_dat.csv) with 6 features represented by coloumns to predict car prices.
 ## There is a total of 8619 different cars.
+#### Here are some of the acronyms for the features.
+| Feature     | Description      | Type of data |
+| ------------- |:-------------:| -----:|
+| Brand       |        The Car manufacturer name | categorical 
+| Year        |        The year the car was manufactured |numerical 
+| Horsepower        |  Engine Horse Power (HP) |numerical 
+| Engine Cylinders  |  Engine Cylinders |numerical
+| Number of Doors    | Number of Doors |numerical 
+| Price            |  Manufacturer Suggested Retail Price | numerical
