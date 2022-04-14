@@ -22,9 +22,9 @@
 ### ⋅ Graph Boosting 
 --- 
 ## Conclusion
-### Random Forest Regression was found to have higher accuracy in predicting car prices.
-### Brand and the year the car was manufactured have higher linear correlation value with price.
-### Data in data set was not enough to predict luxury car brands.
+#### Random Forest Regression was found to have higher accuracy in predicting car prices.
+#### Brand and the year the car was manufactured have higher linear correlation value with price.
+#### Data in data set was not enough to predict luxury car brands but enough to cater to general public in predicting widely used cars in general
 ---
 
 ### Contributors
