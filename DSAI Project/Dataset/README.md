@@ -1,5 +1,5 @@
 # Content
-## This dataset is based on Cars with 16 features represented as columns to predict car prices.
+## The original dataset is based on Cars with 16 features represented by columns to predict car prices.
 ## There is a total of 11914 different cars.
 #### Here are some of the acronyms for the features.
 | Feature     | Description      | Type of data |
@@ -21,3 +21,6 @@
 | Popularity        |  Popularity | numerical
 | MSRP              |  Manufacturer Suggested Retail Price | numerical
 #### Extracted from https://www.kaggle.com/CooperUnion/cardataset
+
+## After Data Preparation and cleaning, We have obtained a new set of dataset with 6 features represented by coloumns to predict car prices.
+## There is a total of 8619 different cars.
