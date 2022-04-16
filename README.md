@@ -25,12 +25,25 @@
 --- 
 ## Conclusion
 #### Random Forest Regression was found to have higher accuracy in predicting car prices.
-#### Brand and the year the car was manufactured have higher linear correlation value with price.
-#### Data in data set was not enough to predict luxury car brands but enough to cater to general public in predicting widely used cars in general
----
+#### Brand and the year the car was manufactured have higher relationship with price.
+#### There were not enough data points from luxury brands for training the model, which resulted in the model being unable to accurately predict the price of cars outside the range of the dataset used to train the model. 
+#### The model is however still suitable for use when it comes to the majority of the people looking to buy or sell their cars. 
 
+---
+## References
+#### https://machinelearningmastery.com/visualize-gradient-boosting-decision-trees-xgboost-python/
+#### https://mljar.com/blog/visualize-tree-from-random-forest/
+#### https://www.geeksforgeeks.org/how-to-convert-categorical-variable-to-numeric-in-pandas/amp/
+#### https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c
+#### https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/anova/
+#### https://thinkingneuron.com/car-price-prediction-case-study-in-python/
+#### https://www.datasciencecentral.com/how-to-choose-a-machine-learning-model-some-guidelines/amp/
+#### https://towardsdatascience.com/predicting-car-price-using-machine-learning-8d2df3898f16
+#### https://cars.usnews.com/cars-trucks/hyundai/elantra/2020
+#### https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn
+#### http://shakedzy.xyz/dython/getting_started/examples/
+---
 ### Contributors
 #### 🤖 [twm2k](https://github.com/twm2k)
 #### 🤖 [yeotzunkai](https://github.com/yeotzunkai)
 #### 🤖 [Zisuan](https://github.com/Zisuan)
----
