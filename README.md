@@ -44,9 +44,6 @@
 #### http://shakedzy.xyz/dython/getting_started/examples/
 ---
 ### Contributors
-#### 🤖 [twm2k](https://github.com/twm2k)
-##### Did exploratory data analysis. Helped to clean dataset, make video and presentation slides
-#### 🤖 [yeotzunkai](https://github.com/yeotzunkai)
-##### Did modeling for dataset. Helped to clean dataset, make video and presentation slides
-#### 🤖 [Zisuan](https://github.com/Zisuan)
-##### Did modeling for dataset. Helped to clean dataset, make video and presentation slides
+#### 🤖 [twm2k](https://github.com/twm2k) - Exploratory Data Analysis, Data Preparation, Video Slides and Presentation
+#### 🤖 [yeotzunkai](https://github.com/yeotzunkai) - Predictive Modeling, Data Preparation, Video Slides and Presentation
+#### 🤖 [Zisuan](https://github.com/Zisuan) - Predictive Modeling, Data Preparation, Video Slides and Presentation
