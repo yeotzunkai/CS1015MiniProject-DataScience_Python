@@ -45,5 +45,8 @@
 ---
 ### Contributors
 #### 🤖 [twm2k](https://github.com/twm2k)
+##### Did exploratory data analysis. Helped to clean dataset, make video and presentation slides
 #### 🤖 [yeotzunkai](https://github.com/yeotzunkai)
+##### Did modeling for dataset. Helped to clean dataset, make video and presentation slides
 #### 🤖 [Zisuan](https://github.com/Zisuan)
+##### Did modeling for dataset. Helped to clean dataset, make video and presentation slides
